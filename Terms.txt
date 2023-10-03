@@ -1,0 +1,31 @@
+Q) Is Java platform independent?
+Yes, Java is often referred to as a platform-independent or write once, run anywhere programming language. This platform independence.
+
+Q) The Java Virtual Machine (JVM) is responsible for managing memory to execute Java applications.
+
+Q) Java vs. C ++?
+Java and C++ are both popular and powerful programming languages, but they have distinct differences in terms of their design, use cases, and characteristics. 
+
+Q) Explain public static void main(String args[])
+The line is a crucial part of a Java program and serves as the entry point for the execution of a Java application.
+
+Q) What is javac?
+Java Compiler, which is a command-line tool used to compile Java source code files into bytecode files.
+
+Q) What is class?
+a "class" is a blueprint or template for creating objects.
+
+Q) What is the base class of all classes?
+The base class of all classes is the Object class.
+
+Q) What is an Array?
+It is a fundamental data structure in computer programming that allows you to store and organize a collection of elements of the same data type under a single name.
+
+Q) Four main principles of OOPS Concepts?
+Encapsulation, Inheritance, Polymorphism, and Abstraction.
+
+Q)THIS keyword?
+It is used in many programming languages, including Java, C++, and JavaScript. Its primary purpose is to refer to the current instance of a class or object within its own scope.
+
+Q) Explain super keyword in Java?
+The super keyword is used to refer to the superclass (parent class) of the current class. It allows you to access members of the superclass, call the superclass's constructor, and differentiate between overridden methods or fields in the subclass and those in the superclass.
